@@ -1,0 +1,16 @@
+POST http://118.24.194.127/kline.php
+Accept: */*
+Cache-Control: no-cache
+
+{"timestamp":"1547971692000","symbol":"ETHBTC","interval":"1m"}
+
+###
+
+POST http://118.24.194.127/kline.php
+Accept: */*
+Cache-Control: no-cache
+
+{"timestamp":"1547974609000","symbol":"ETHBTC","interval":"1m"}
+
+###
+
